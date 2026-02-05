@@ -1,7 +1,19 @@
+## だーやま（d-ym1031）
+
+機械工学科（学部3年）  
+いまは **Android / Flutter のアプリ開発**を学びながら、自分で使うための小さなアプリを作っています。
+
+### 取り組み中
+- 📷 カメラアプリ（CameraX）：タップでピント、撮影まわりの改善
+- 🗂️ 学習支援アプリ：単語カードなど、勉強の負担を減らす仕組み
+
+### 興味
+- アプリのUI/UX（使いやすさ）
+- 画像・カメラ、計測、ものづくり
+
+---
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d-ym1031&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=d-ym1031&theme=onedark)](https://github-profile-trophy.vercel.app/?username=d-ym1031&theme=tokyonight)
-
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-ym1031&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=d-ym1031&count_private=true&show_icons=true&theme=tokyonight" />
